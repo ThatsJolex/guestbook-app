@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/guestbook
+Content-Type: application/json
+
+{
+  "name": "Jolex",
+  "message": "Hello DynamoDB"
+}
